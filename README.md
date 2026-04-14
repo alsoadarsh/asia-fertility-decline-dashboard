@@ -75,7 +75,7 @@ is excluded from HDI-specific charts with a note.
 
 | File | Description |
 |---|---|
-| `data/asia_fertility_dashboard_data.xlsx` | Master dataset, 88 rows × 9 columns |
+| `data/asia_fertility_data.xlsx` | Master dataset, 88 rows × 9 columns |
 | `images/dashboard_preview.png` | Dashboard screenshot |
 
 ---
