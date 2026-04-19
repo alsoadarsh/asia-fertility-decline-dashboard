@@ -86,6 +86,7 @@ is excluded from HDI-specific charts with a note.
   maternal mortality ratio
 - WHO Global Health Observatory — adult obesity prevalence
 - UNDP Human Development Reports — HDI time series
+- Our World in Data — population figures
 
 ---
 
